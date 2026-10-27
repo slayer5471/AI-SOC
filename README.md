@@ -78,8 +78,7 @@ Install the following before running the application:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd ai-soc_NEW
+git clone this repo
 ```
 
 
