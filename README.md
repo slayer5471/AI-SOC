@@ -82,7 +82,6 @@ git clone <your-repository-url>
 cd ai-soc_NEW
 ```
 
-Replace `<your-repository-url>` with your actual GitHub repository URL.
 
 ### Step 2: Install Dependencies
 
